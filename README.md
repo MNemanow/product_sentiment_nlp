@@ -15,7 +15,7 @@
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./main_notebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in our [Jupyter Notebook](./main_notebook.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
