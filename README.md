@@ -1,6 +1,6 @@
 # product_sentiment_nlp
 
-**Authors**: Jeonwook Kang, Menachem Nemanow, Zach Hanly
+**Authors**: Jeonwook Kang, Mendy Nemanow, Zach Hanly
 
 ## Overview
 
