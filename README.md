@@ -19,7 +19,7 @@ We started a business where we help technology companies find ways to analyze tw
 
 ## For More Information
 
-Please review our full analysis in our [Jupyter Notebook](./main_notebook.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in our [Jupyter Notebook](./Main_Notebook.ipynb) or our [presentation](./presentation.pdf).
 
 ## Repository Structure
 
@@ -29,7 +29,7 @@ Please review our full analysis in our [Jupyter Notebook](./main_notebook.ipynb)
 ├── mendy                     <- individual contributor
 ├── zach                      <- individual contributor 
 ├── .gitignore                <- filed github should ignore 
-├── main_notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
+├── Main_Notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf          <- PDF version of project 
 ├── README.md                 <- The top-level README for reviewers of this project
 ```# product_sentiment_nlp
