@@ -1,4 +1,4 @@
-# product_sentiment_nlp
+# Discorvering Negative Tweets 
 
 **Authors**: Jeonwook Kang, Mendy Nemanow, Zach Hanly
 
@@ -24,9 +24,12 @@ Please review our full analysis in our [Jupyter Notebook](./main_notebook.ipynb)
 ## Repository Structure
 
 ```
-├── README.md                 <- The top-level README for reviewers of this project
-├── main_notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf          <- PDF version of project 
 ├── data                      <- Sourced externally
 ├── images                    <- Generated from code
+├── mendy                     <- individual contributor
+├── zach                      <- individual contributor 
+├── .gitignore                <- filed github should ignore 
+├── main_notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf          <- PDF version of project 
+├── README.md                 <- The top-level README for reviewers of this project
 ```# product_sentiment_nlp
