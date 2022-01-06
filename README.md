@@ -12,10 +12,20 @@ We used twitter data in order to build a model that performs sentiment analysis.
 
 We started a business where we help technology companies find ways to analyze tweets about their company and products. We have developed a model that helps social media departments filter through tweets that reference their company and/or their products and find potentially negative tweets so that they may then address them. This not only helps these companies find customers that are not happy with their company, but also serves as a way for them to reach out with unsatisfied customers in an expedite way. 
 
+### Data Class Imbalance 
+![image](images/sentiment_plot.png)
 
 ## Modeling
 
+### All Models 
+![image](images/model_comparision2.png)
+
+### Top 2 models
+![image](images/model_comparision1.png)
+
 ## Conclusion
+
+The company that uses this model will have to make a decision between prioritizing overall accuracy, or just focusing on finding the negative tweets. You can also use one of the models that have more balanced results, but that means compromizing on both accuracy and sensitivity. We imagine that different companies will prioritize different things.
 
 ## For More Information
 
