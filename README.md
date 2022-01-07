@@ -40,6 +40,6 @@ Please review our full analysis in our [Jupyter Notebook](./Main_Notebook.ipynb)
 ├── zach                      <- individual contributor 
 ├── .gitignore                <- filed github should ignore 
 ├── Main_Notebook.ipynb       <- Narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf          <- PDF version of project 
 ├── README.md                 <- The top-level README for reviewers of this project
+├── presentation.pdf          <- PDF version of project 
 ```# product_sentiment_nlp
